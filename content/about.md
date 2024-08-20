@@ -3,12 +3,12 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: John Doe
+jobTitle: Linux Nerd
+name: Aayush Chalise
 bio: true
 icon: ":coffee:"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. [Integer varius](https://lipsum.com) ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.
+Hello! I'm Aayush Chalise, a passionate Linux developer and Rust expert with a deep love for open-source technologies. With over a year of experience in using Arch Linux, I have honed my skills in creating efficient and robust solutions tailored to Linux environments.
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+My journey in the tech world began with a fascination for the flexibility and power of Linux systems. Over time, this curiosity led me to explore various aspects of Linux development, from system administration to kernel customization. Along the way, I discovered Rust, a programming language that perfectly complements my passion for building secure and high-performance applications.
