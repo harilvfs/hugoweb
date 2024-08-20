@@ -8,4 +8,4 @@ draft = false
 
 Hello! I'm Aayush Chalise, a passionate Linux developer and Rust expert with a deep love for open-source technologies. With over a year of experience in using Arch Linux, I have honed my skills in creating efficient and robust solutions tailored to Linux environments.
 
-Visit the [Hugo](github.com/aayushx402/hugowebsite)website!
+Visit the [Hugo](aayushx402.github.io/hugowebsite/)Website!
