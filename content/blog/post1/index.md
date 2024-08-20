@@ -9,6 +9,7 @@ caption: Image caption
 authors:
   - Christian: author.jpeg
 ---
+
 <h1 align="center">Customizable Linux Setup Script</h1>
 
 <p align="center">Welcome to a versatile setup script designed for Arch-based systems. Effortlessly configure your Linux environment with my personal settings and additional features.</p>
