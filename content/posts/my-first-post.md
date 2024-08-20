@@ -6,6 +6,6 @@ draft = false
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+Hello! I'm Aayush Chalise, a passionate Linux developer and Rust expert with a deep love for open-source technologies. With over a year of experience in using Arch Linux, I have honed my skills in creating efficient and robust solutions tailored to Linux environments.
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [Hugo](github.com/aayushx402/hugowebsite)website!
