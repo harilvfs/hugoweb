@@ -15,7 +15,7 @@ author:
 links:
   - github: https://github.com/aayushx402/
   # - facebook: https://github.com/chrede88/qubt
-  - x-twitter:https://x.com/aayushxvf
+  - x-twitter: https://x.com/aayushxvf
   # - mastodon:
   - linkedin: https://linkedin.com/in/aayushchalese 
   - instagram: https://instagram.com/aayushxvf/
@@ -66,6 +66,6 @@ links:
 ###############################
 
 title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.jpeg
