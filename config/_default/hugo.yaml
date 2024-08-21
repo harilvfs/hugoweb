@@ -1,0 +1,16 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://aayushx402.github.io/hugowebsite/'
+title: 'Qubt Theme'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+
+
