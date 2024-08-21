@@ -7,7 +7,6 @@ date: "2023-10-25"
 
 *last updated: 25.10.23*
 
-Mansoor Barri operates the https://mansoorbarri.com website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Mansoor Barri Tech website.
 

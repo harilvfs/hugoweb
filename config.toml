@@ -40,7 +40,7 @@ hasCJKLanguage = false
         enabled = true
         provider = "utterances"
         [params.comments.utterances]
-            repo = "mansoorbarri/website"
+            repo = "aayushx402/hugowebsite"
             issueTerm = "title"
             label = "comments"
 
@@ -76,30 +76,23 @@ hasCJKLanguage = false
     [[menu.social]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/mansoorbarri"
+    url = "https://github.com/aayushx402"
     params.icon = "brand-github"
     weight = 1  
 
     [[menu.social]]
     identifier = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/mansoorbarri"
+    url = "https://twitter.com/aayushxvf"
     params.icon = "brand-twitter"
     weight = 2
 
     [[menu.social]]
     identifier = "linkedin"
     name = "LinkedIn"
-    url = "https://linkedin.com/in/mansoorbarri"
+    url = "https://linkedin.com/in/aayushchalese"
     params.icon = "brand-linkedin"
     weight = 3 
-
-    [[menu.social]]
-    identifier = "fiverr"
-    name = "Fiverr"
-    url = "https://www.fiverr.com/barri_"
-    params.icon = "brand-fiverr"
-    weight = 4 
 
 
 [related]
