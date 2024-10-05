@@ -1,4 +1,4 @@
 baseURL = 'https://harilvfs.github.io/hugoweb/'
 languageCode = 'en-us'
 title = 'Aayush'
-theme = 'lynx'
+theme = 'qubt'
