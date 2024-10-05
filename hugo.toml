@@ -1,4 +1,4 @@
-baseURL = ''https://harilvfs.github.io/hugoweb/
+baseURL = 'https://harilvfs.github.io/hugoweb/'
 languageCode = 'en-us'
 title = 'Aayush'
-theme = 'qubt'
+theme = 'lynx'
