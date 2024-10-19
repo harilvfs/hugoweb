@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugoweb/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugoweb/blog/post1/</loc>
-  </url><url>
     <loc>http://localhost:1313/hugoweb/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugoweb/blog/</loc>
   </url>
 </urlset>

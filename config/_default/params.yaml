@@ -5,7 +5,7 @@
 author:
   name: "Aayush"
   image: author.jpeg
-  greeting: "A personal blog for Hugo :evergreen_tree:"
+  greeting: "A [PSU] blog for Hugo :evergreen_tree:"
   icon: ":wave:"
 
 ############################
@@ -13,14 +13,13 @@ author:
 ############################
 
 links:
-  - github: https://github.com/aayushx402/
+  - github: https://github.com/harilvfs/
   # - facebook: https://github.com/chrede88/qubt
-  - x-twitter: https://x.com/aayushxvf
+  - x-twitter: https://x.com/harilvfs
   # - mastodon:
-  - linkedin: https://linkedin.com/in/aayushchalese 
-  - instagram: https://instagram.com/aayushxvf/
+  - instagram: https://instagram.com/harilvfs/
   - reddit: https://reddit.com/u/aayush-le/ 
-  - telegram: https://t.me/aayushchalise 
+  - telegram: https://t.me/harilvfs 
   # - whatsapp: 
   # - signal: 
   # - codepen: 
@@ -28,18 +27,18 @@ links:
   - email: aayushchalise8@gmail.com 
   - website: https://chalisehari.com.np/
   # - link: 
-  - discord: https://discord.com/users/sheron_x
+  - discord: https://discord.com/invite/8NJWstnUHd
   # - orcid:
   # - slack:
   # - stack-overflow: 
-  # - twitch: 
+  - twitch: https://www.twitch.tv/aayushchalese 
   # - patreon: 
   # - soundcloud:
   # - dribbble: 
   # - stack-exchange: 
   # - tiktok: 
   # - youtube:
-  # - keybase: 
+  - keybase: https://keybase.io/harilvfs 
   # - flickr: 
   # - tumblr:
   # - kickstarter: 
@@ -49,11 +48,11 @@ links:
   # - bandcamp: 
   # - etsy: 
   # - spotify: 
-  # - pinterest: 
+  - pinterest: https://pin.it/7LVgxZUQG
   # - strava: 
   # - untappd: 
   # - skype: 
-  # - medium: 
+  - medium: https://medium.com/@aayushchalise 
   # - foursquare: 
   # - apple: 
   # - amazon: 
@@ -66,6 +65,6 @@ links:
 ###############################
 
 title: "harilvfs"
-description: "Site build with Qubt & Hugo"
+description: "Suckssss"
 images:
   - thumbnail.jpeg

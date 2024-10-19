@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://aayushchalise.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>aayush</title>
+    <link>http://localhost:1313/hugoweb/</link>
+    <description>Recent content on aayush</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 23:05:24 +0545</lastBuildDate>
-    <atom:link href="https://aayushchalise.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugoweb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://aayushchalise.com/posts/my-first-post/</link>
-      <pubDate>Tue, 20 Aug 2024 23:05:24 +0545</pubDate>
-      <guid>https://aayushchalise.com/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <title></title>
+      <link>http://localhost:1313/hugoweb/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugoweb/about/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Aayush Chalise, a passionate Linux developer and Rust expert with a deep love for open-source technologies. With over a year of experience in using Arch Linux, I have honed my skills in creating efficient and robust solutions tailored to Linux environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugoweb/blog/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugoweb/blog/post1/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
